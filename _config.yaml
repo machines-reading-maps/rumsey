@@ -2,3 +2,6 @@ title: Help Docs for Text on Maps Search and Annotation in David Rumsey Map Coll
 description: David Rumsey Map Collection x Machines Reading Maps
 theme: just-the-docs
 url: https://machines-reading-maps.github.io/rumsey
+
+plugins:
+  - jekyll-default-layout
