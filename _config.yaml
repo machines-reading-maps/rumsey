@@ -3,5 +3,3 @@ description: Searching and Annotationing Text on Maps in David Rumsey Map Collec
 theme: just-the-docs
 url: https://machines-reading-maps.github.io/rumsey
 
-plugins:
-  - jekyll-default-layout
