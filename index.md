@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-# Guide to Searching and Annotating New Map Text Data
+# Guide to Searching and Annotating Text on Maps
 
 Here, we will walk you through some new and experimental features that have been introduced to a subset of the maps in the David Rumsey Map Collection. We will explain what’s new, how to make the most of the new available tools, and how new computational methods enabled this new way search maps. Last, we will show you how you can get involved.
 
