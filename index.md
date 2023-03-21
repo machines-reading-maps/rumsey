@@ -7,7 +7,9 @@ nav_order: 1
 
 # Guide to Searching and Annotating Text on Maps
 
-Here, we will walk you through some new and experimental features that have been introduced to a subset of the maps in the David Rumsey Map Collection. We will explain what’s new, how to make the most of the new available tools, and how new computational methods enabled this new way search maps. Last, we will show you how you can get involved.
+- Learn about new and experimental features that have been introduced to a subset of maps in the David Rumsey Map Collection. 
+- Discover what’s new, how to make the most of the new available tools, and how new computational methods enabled this new way search maps. 
+- Find out how to get involved.
 
 
 ## Quick Start
