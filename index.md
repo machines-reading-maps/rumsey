@@ -1,7 +1,10 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
+
+
 # Guide to Searching and Annotating Text on Maps
 
 Here, we will walk you through some new and experimental features that have been introduced to a subset of the maps in the David Rumsey Map Collection. We will explain what’s new, how to make the most of the new available tools, and how new computational methods enabled this new way search maps. Last, we will show you how you can get involved.
@@ -48,9 +51,9 @@ Usually, when you browse a catalogue of digitised maps, the words that you type 
 
 Metadata are, in a way, the digital heirs of the content that was written on library cards or in collection inventories for centuries. They are therefore a vital component of any digital library or archive. It is thanks to metadata that we are able to find anything. However, given the history of using record metadata to capture information about an item rather than its content, it’s not logistically possible for metadata to store the information about every single place mentioned in each map. This is the reason why, if you look for a place in a map collection, you can only find maps that have that name appearing in their metadata.
 
-Making it possible to search about ½ of the David Rumsey Map Collection based on the content of a map rather than only its metadata is a major shift in the history of searching cartographic collections. While we have been used for several years to searching books via their content as well as their titles and authors, such technology has not yet been applied to visual media like maps. Exposing text on maps alongside traditional catalog record metadata transforms how people search maps and why people might be interested in historical maps altogether: now the content of large sets of maps can be examined as data that tells us not only about the history or cultural context of specific places, or of specific mapping traditions, but also about broader social and cultural developments. 
+Making it possible to search roughly 50% of the David Rumsey Map Collection based on the content of a map rather than only its metadata is a major shift in the history of searching cartographic collections. While we have been used for several years to searching books via their content as well as their titles and authors, such technology has not yet been applied to visual media like maps. Exposing text on maps alongside traditional catalog record metadata transforms how people search maps and why people might be interested in historical maps altogether: now the content of large sets of maps can be examined as data that tells us not only about the history or cultural context of specific places, or of specific mapping traditions, but also about broader social and cultural developments. 
 
-If you are interested in working with this data using your own computational methods, you can access the full, open access dataset here alongside its documentation. Please note that this machine-generated (inferred) data has not been evaluated, validated, or otherwise improved. It therefore contains many errors which will vary significantly depending on many factors. 
+If you are interested in working with this data using your own computational methods, you can access the full, open access dataset alongside its documentation. Please note that this machine-generated (inferred) data has not been evaluated, validated, or otherwise improved. It therefore contains many errors which will vary significantly depending on many factors. 
 
 ### How do you identify map text at scale?
 The new features that you can now explore and use are the product of an exciting international and multidisciplinary collaboration supported by David Rumsey. 
