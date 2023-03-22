@@ -1,19 +1,27 @@
 ---
 title: Guide
 layout: default
-nav_order: 1
+nav_order: 4
 description: "Guide to Searching and Annotating Text on Maps"
-has_children: false
+has_children: true
 permalink: /
 ---
 
 
 # Guide to Searching and Annotating Text on Maps
-{:toc}
+{: .no_toc }
 
 - Learn about new and experimental features that have been introduced to a subset of maps in the David Rumsey Map Collection. 
 - Discover what’s new, how to make the most of the new available tools, and how new computational methods enabled this new way search maps. 
 - Find out how to get involved.
+
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 
 ## Quick Start
