@@ -1,3 +1,9 @@
+---
+layout: default
+title: What is Text on Maps?
+nav_order: 2
+---
+
 # What is Text on Maps?
 
 About 60,000 of the georeferenced maps from the collection have been processed with a machine learning tool called mapKurator to collect all the map text, i.e. every piece of text (printed or handwritten) that appears on a map, including place names, but also information like a map’s title or its scale, or the names of the people involved in producing the map. Through this process of automatic annotation, this approach turns the map text into structured data (map text data): the enormous amount of map text data that has been collected from 60,000 maps is now searchable. 
