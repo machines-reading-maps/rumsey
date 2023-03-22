@@ -1,8 +1,9 @@
 ---
 title: Home
 layout: default
-nav_order: 1
+nav_order: 4
 description: "Guide to Searching and Annotating Text on Maps"
+has_children: true
 permalink: /
 ---
 
