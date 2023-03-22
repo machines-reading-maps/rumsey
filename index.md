@@ -1,7 +1,9 @@
 ---
 title: Home
-layout: home
-nav_order: 4
+layout: default
+nav_order: 1
+description: "Guide to Searching and Annotating Text on Maps"
+permalink: /
 ---
 
 
