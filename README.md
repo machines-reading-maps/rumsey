@@ -1,4 +1,4 @@
-# rumsey
+# Text on Maps Help Guide for David Rumsey Map Collection 
 
 Help Guide: https://machines-reading-maps.github.io/rumsey/ 
 
