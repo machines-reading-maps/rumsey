@@ -31,8 +31,12 @@ In addition to a traditional search of Catalog Data (e.g. titles, authors, dates
 
 Only maps that have been geo-referenced can be searched by the text they contain.
 
-Using the Advanced Search, you can perform combined searches of Catalog Data and map text. 
+Using the Advanced Search, you can perform combined searches of Catalog Data and Text on Maps. In the Advanced Search, you also can specify which version of the Text on Maps you want to search. Read more about these options **here**.  
 
+- “Mapkurator output” - mapKurator's predicted transcription of text within its predicted bounding polygon
+- “MapKurator output (post-processed)” - output from mapKurator's PostOCR module which updates text content based on a fuzzy string match to a dictionary of OpenStreetMap feature names (content in this field is always CAPITALIZED).
+- “User annotations” - updates to mapKurator predictions by users like you
+- “All Text on Maps” - combination of all of the above
 
 
 
