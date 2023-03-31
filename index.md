@@ -25,7 +25,7 @@ permalink: /
 
 ## Quick Start
 
-### Search Text on Maps
+### Search
 
 In addition to a traditional search of Catalog Data (e.g. titles, authors, dates), the Luna Viewer now allows you to search the text content of many maps. We call this ‘Text on Maps”. 
 
@@ -36,7 +36,7 @@ Using the Advanced Search, you can perform combined searches of Catalog Data and
 
 
 
-### View Text on Maps
+### View
 
 Not only can you view the text you searched for, you can also view all other text on this map and correct the underlying data!
 
@@ -45,7 +45,7 @@ When you arrive from the search page, you will see only your search term highlig
 <img width="42" alt="Screen Shot 2023-03-16 at 17 06 24" src="https://user-images.githubusercontent.com/20363927/225681301-0f4aadf6-9179-4c08-b948-a70eeb49de30.png">
 
 
-### Become a Contributor
+### Contribute
 
 To edit a particular selection, click on the highlighted text. Now, you will see the annotation pop up. To learn more about how to annotate (correct, confirm, etc.) text on maps, read this guidance.
 
@@ -74,7 +74,7 @@ When you select “Text on Maps”, you will search for occurrences of the word 
 
 *Note: [Georeferencing](https://en.wikipedia.org/wiki/Georeferencing) means establishing points on the scanned image that point to locations on the earth. These control points allow content on the digitized map to be geolocated. [You can try georeferencing out yourself.](https://www.davidrumsey.com/view/georeferencer)*
 
-### Searching for Multiple Words
+### Search for Multiple Words
 mapKurator output is saved only as individual words: there is no prediction of phrases, for example, for places names that contain more than one word (e.g. “South Ponte Vedra Beach”)
 
 However, multi-word search is possible because of the way the data has been indexed. Briefly, multi-word searches will be successful when adjacent words are within a 2-character length from the two points of the bounding polygon that are the furthest away from each other. This is based based on the size of the characters in the least common word in the search, e.g. “Ponte” below.
@@ -150,7 +150,7 @@ It’s also a handy way to visualize errors in the automatic text detection and 
 
 
 
-Tile View
+### Tile View
 <img width="97" alt="zSxgKYHyDBsKf_UQOtK21gojPt0NH2C7O-W55z9w8SOwwJlHh06H5X4KvbCCGqpRa6aznCVpT-4XiBoTXHc9c0QWdzbKGMsm7BoI5fGvk6Bu7Dya5QaBRzKa3ozD" src="https://user-images.githubusercontent.com/20363927/229170677-1fd71a78-abab-40a5-87b1-7b961627e4a6.png">
 
 You can also select the “tile view”, to directly see all thumbnails of the maps that match your search. This view is more like the traditional view you see when searching via Catalog Data (e.g. the title).
